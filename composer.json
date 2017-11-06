@@ -1,7 +1,7 @@
 {
 	"name": "mage2pro/mercadolibre"
 	,"version": "0.0.1"
-	,"description": "The «MercadoLibre» extension for Magento 2."
+	,"description": "MercadoLibre integration with Magento 2"
 	,"type": "magento2-module"
 	,"homepage": "https://mage2.pro/c/extensions/mercadolibre"
 	,"license": "proprietary"
