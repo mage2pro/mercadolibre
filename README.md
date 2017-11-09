@@ -1,4 +1,4 @@
-The extension integrates your Magento 2 store with the **[MercadoLibre](https://en.wikipedia.org/wiki/MercadoLibre)** marketplace (Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, Dominican Republic, Ecuador, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Portugal, Salvador, Uruguay, Venezuela).  
+The extension integrates your Magento 2 based webstore with the **[MercadoLibre](https://en.wikipedia.org/wiki/MercadoLibre)** marketplace (Argentina, Bolivia, Brazil, Chile, Colombia, Costa Rica, Dominican Republic, Ecuador, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Portugal, Salvador, Uruguay, Venezuela).  
 
 ## How to buy
 The extension is not released yet, so there is no way to buy it just now.  
